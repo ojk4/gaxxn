@@ -6,3 +6,4 @@
 
 Colección de scripts en Python nativo para la automatización de tareas de sistemas operativos (Windows 10/11), utilizando la biblioteca estándar y módulos como `pathlib`.
 
+---
